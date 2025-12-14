@@ -1,5 +1,6 @@
 # Collatz
 Collatz' conjecture calc that formats output for Graphviz.
+<img width="1028" height="214" alt="screenshot-2025-12-14_21-39-36" src="https://github.com/user-attachments/assets/c1e2514c-9d71-4f6e-93ce-1a242f0a2af0" />
 
 ## Usage
 - Go over to releases, click on main.
