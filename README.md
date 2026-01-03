@@ -1,5 +1,5 @@
 # collatz
-Collatz conjecture generator that formats the output for Graphviz.
+Collatz conjecture generator that formats the output for Graphviz, written in Rust.
 
 ## Performance
 - base is the slowest and smallest
